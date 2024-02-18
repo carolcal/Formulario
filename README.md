@@ -1,0 +1,1 @@
+This is a backend form project made to practice Node.Js with Express and MySQL integrated with Sequelize, Handlebars and BodyParser.
